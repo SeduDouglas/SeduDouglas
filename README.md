@@ -6,7 +6,7 @@ I am now coursing at Universidade Federal da Bahia, since 2016.
 
 ### Interests
 
-Working into biometry detectin, through computer vision, is an actual objective and the main work I am developing.
+Working into biometry detectin, through computer vision, is an current objective and the main work I am developing.
 
 <!--
 **SeduDouglas/SeduDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
