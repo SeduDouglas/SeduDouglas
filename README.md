@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is the place where I can put my thoughts on and work in projects that I'm interested. It's been so much quiet here, butt my plans is to flood this with my personal projects soon (right after the end of the college). I work on a full time job, so there is no mych time to work on it.
+
+I am now coursing at Universidade Federal da Bahia, since 2016.
+
+### Interests
+
+Working on  biometry detectin, through computer vision, is an actual objective and the main work I am developing.
+
 <!--
 **SeduDouglas/SeduDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
